@@ -1,0 +1,3 @@
+model_checkpoint_path: "best_test-2"
+all_model_checkpoint_paths: "best_training-2"
+all_model_checkpoint_paths: "best_test-2"
